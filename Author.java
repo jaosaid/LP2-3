@@ -1,6 +1,6 @@
-Isabelly Barbosa Gonçalves
-João Antonio Dias
-Exercício 1:
+//Isabelly Barbosa Gonçalves
+//João Antonio Dias
+
 public class Author {
     private String name;
     private String email;
