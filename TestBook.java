@@ -1,6 +1,6 @@
-Exercício 2
-Isabelly Barbosa Gonçalves
-Joao Antonio Dias
+
+//Isabelly Barbosa Gonçalves
+//Joao Antonio Dias
 public class TestBook {
     public static void main(String[] args) {
         Author[] authors = new Author[2];
